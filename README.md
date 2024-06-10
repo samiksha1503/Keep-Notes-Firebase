@@ -1,10 +1,32 @@
 
 
-# 📝 Keep Notes App
+# 📝 Keep Notes!
+![1](https://github.com/samiksha1503/Keep-Notes-Firebase/assets/131444629/9db5e81f-4a0c-4e39-b021-0a3d17b9f198)
+![1](https://github.com/samiksha1503/Keep-Notes-Firebase/assets/131444629/9db5e81f-4a0c-4e39-b021-0a3d17b9f198)
 
-A simple note-taking application built using XML for UI, Firebase for backend, and Java for logic.
 
-![App Screenshot](screenshot.png)
+![WhatsApp Image 2024-06-10 at 18 02 39_17567afa](https://github.com/samiksha1503/Keep-Notes-Firebase/assets/131444629/98e6ed5a-29b3-471a-a6cd-939921253930)
+![WhatsApp Image 2024-06-10 at 18 02 39_17567afa](https://github.com/samiksha1503/Keep-Notes-Firebase/assets/131444629/98e6ed5a-29b3-471a-a6cd-939921253930)
+
+![0](https://github.com/samiksha1503/Keep-Notes-Firebase/assets/131444629/94f266ac-e0ae-48cc-9ec9-a715ca4e0fae)
+![0](https://github.com/samiksha1503/Keep-Notes-Firebase/assets/131444629/94f266ac-e0ae-48cc-9ec9-a715ca4e0fae)
+
+![Screenshot 2024-06-10 175106](https://github.com/samiksha1503/Keep-Notes-Firebase/assets/131444629/8d9c27f9-51a2-48e2-8cf6-c4f9158929d3)
+![Screenshot 2024-06-10 175106](https://github.com/samiksha1503/Keep-Notes-Firebase/assets/131444629/8d9c27f9-51a2-48e2-8cf6-c4f9158929d3)
+
+
+![Screenshot 2024-06-10 175041](https://github.com/samiksha1503/Keep-Notes-Firebase/assets/131444629/f255cce0-d7ec-4e21-841c-44624560cde0)
+![Screenshot 2024-06-10 175041](https://github.com/samiksha1503/Keep-Notes-Firebase/assets/131444629/f255cce0-d7ec-4e21-841c-44624560cde0)
+
+![3](https://github.com/samiksha1503/Keep-Notes-Firebase/assets/131444629/be30f2df-e728-4f8f-b680-66c0b7f47f9c)
+![3](https://github.com/samiksha1503/Keep-Notes-Firebase/assets/131444629/be30f2df-e728-4f8f-b680-66c0b7f47f9c)
+
+![2](https://github.com/samiksha1503/Keep-Notes-Firebase/assets/131444629/ca009917-00f0-44c1-9178-38037cd5ae43)
+![2](https://github.com/samiksha1503/Keep-Notes-Firebase/assets/131444629/ca009917-00f0-44c1-9178-38037cd5ae43)
+
+![4](https://github.com/samiksha1503/Keep-Notes-Firebase/assets/131444629/1c7f22c0-c0fe-415f-a71a-ece8b379aa18)
+![4](https://github.com/samiksha1503/Keep-Notes-Firebase/assets/131444629/1c7f22c0-c0fe-415f-a71a-ece8b379aa18)
+
 
 ## ✨ Features
 
